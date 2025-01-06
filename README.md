@@ -1,6 +1,6 @@
 -  Merhaba Dostlar Ben Svi
 -  Kendimce Bot Yapıyorum 
--  Discord Adresim discord.gg/huysuz
+-  Discord Adresim discord.gg/askoyuz
 -  Desteklerinizi Bekliyorum Canlarım
 <!---
 Svicik/Svicik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
